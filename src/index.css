@@ -1,0 +1,14 @@
+.booklist {
+    width: 50vw;
+    max-width: 1170px;
+    margin: 5rem auto;
+    display: grid;
+    gap: 2rem;
+}
+
+.eachBook{
+    background: cyan;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+1 components are capital letters and return something as well
+
+2 props are passing attributes from parent to child
+
+3 child props special to a component that is similar to other but comps 
+but has some special props as well
+
+4 id as key only when list is fix
+
+5 spread operator copies whole array 
+(a1 = 1,2,3) & a2 = ...a1,4 , ==>a2 = 1234
+
+6 prop drilling passing values to grand children and so on
+
+7-func called inside the func will run infinite times 
+but useEffect will run only for provided num of times 
